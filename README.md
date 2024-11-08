@@ -22,7 +22,7 @@ A dual-microcontroller-based smart home automation system implemented using two 
 - **Input**: 4x4 Matrix Keypad
 - **Status Indicators**: LEDs for "Admin Access" and "System Blocked"
 - **Buzzer**: For security alerts
-- **Buttons**: Start and Reset buttons
+- **Buttons**: **Start** (to start the system) and **Reset_Clock** (to manually set the clock)
 
 ### Slave MCU Unit
 
