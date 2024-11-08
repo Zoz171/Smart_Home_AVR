@@ -2,6 +2,7 @@
 # Smart Home Automation System
 
 A dual-microcontroller-based smart home automation system implemented using two ATmega32 MCUs, communicating via USART. The system features password protection, a real-time clock display, and control of multiple room devices, including an automated temperature-controlled AC system.
+![Overview](https://github.com/user-attachments/assets/eff8ad9f-1132-4087-9d36-6fcd80404894)
 
 ## Key Features
 
@@ -69,6 +70,3 @@ A dual-microcontroller-based smart home automation system implemented using two 
 - Integration of additional sensors (e.g., motion, humidity).
 - Mobile app or web interface for remote access.
 - Data logging for monitoring system activity.
-
-## Overview
-![Overview](https://github.com/user-attachments/assets/eff8ad9f-1132-4087-9d36-6fcd80404894)
