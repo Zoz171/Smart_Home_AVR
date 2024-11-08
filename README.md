@@ -71,3 +71,15 @@ A dual-microcontroller-based smart home automation system implemented using two 
 - Integration of additional sensors (e.g., motion, humidity).
 - Mobile app or web interface for remote access.
 - Data logging for monitoring system activity.
+
+### Clock system (12-hour format)
+(the date is just an easter egg for project completion)
+
+![Clock](https://github.com/user-attachments/assets/ffbc0e64-7f24-4fbb-8e25-be7d1424fe64)
+
+### Manually setting the Clock (HH:MM) format
+can be set like an android system.
+
+![Reseting_clock](https://github.com/user-attachments/assets/734b95b5-292d-4443-9c1c-dbd5cae9d707)
+![Resetting_clock_2](https://github.com/user-attachments/assets/77a66584-9f7b-4221-b34c-aa597f286b8d)
+
